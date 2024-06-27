@@ -59,8 +59,8 @@ The lowest churn rate is observed in the <20 age
 ![Screenshot 2024-06-27 205023](https://github.com/susmitagupta10/Customer-Churn-Analysis/assets/166834605/1a318b70-9f8a-48f8-b845-5155ed18d29d)
 
 # Overall Report
+![Screenshot 2024-06-27 212811](https://github.com/susmitagupta10/Customer-Churn-Analysis/assets/166834605/1518d139-1032-4683-a1bd-19de2481e5e6)
 
-[customer churn analysis.pdf](https://github.com/user-attachments/files/16015265/customer.churn.analysis.pdf)
 
 
 
