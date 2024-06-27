@@ -24,9 +24,12 @@ It shows that over all curned customer in Female Category is higher than Male
 
 ![Screenshot 2024-06-27 202603](https://github.com/susmitagupta10/Customer-Churn-Analysis/assets/166834605/fa33e8cd-71a2-4a39-9000-92e146e15842)
 
-From 3 Countries France, Germany & Spain , Customers from France is higher
+From 3 Countries France, Germany & Spain , Customers from France is higher.
+
 Out of 10K customers, no. of credit card holder = approx 7.06K
+
 Out of 4 Product, Product 1 is more Popular
+
 The highest churn rate is observed in the 50-60 age group
 The lowest churn rate is observed in the <20 age
 
