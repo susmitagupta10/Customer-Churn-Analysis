@@ -5,7 +5,7 @@ Developed an interactive Power Bi report using Excel Data from database, to prov
 1. Microsoft Power BI
 2. Power Query Editor
 3. Data sources(Excel xlsx file)
-# Create colums- 
+# Create columns- 
 Active Status based on value of  Active Member: 1 – Active, 0 – Inactive , 
 
 Churn Status based on value of Churn:  1 – Churned, 0 – Not Churned
